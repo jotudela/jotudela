@@ -60,8 +60,8 @@ My final goal is to be a MASTER of Blockchain and IA.
  <a href="https://github.com/jotudela/minishell">
   <img src="imgs/minishell.png" alt="minishell" width=250>
  </a>
- <a href="https://github.com/jotudela/ft_irc">
-  <img src="imgs/ft_irc.png" alt="ft_irc" width=250>
+ <a href="https://github.com/jotudela/ft_transcendence">
+  <img src="imgs/ft_transcendence.png" alt="ft_transcendence" width=250>
  </a>
 </p>
 
