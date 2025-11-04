@@ -4,24 +4,23 @@
 
 I'm a Computer Science student at [42](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://42.fr/&ved=2ahUKEwjjyoPFk7KOAxW9K_sDHfMHOwUQFnoECAwQAQ&usg=AOvVaw1Jn4i0LjOUW7B_zcaUisCq).
 
-I'm actually focused on final project of common core which is "ft_transcendence".
+🚀 I successfully complted common core at 42 in october 2025 🚀
 <br>
 <br>
 currents goals :
- - complete commom core of 42
+ - find a stage, i would prefer a company in Blockchain or AI
+ - or if i haven't found a stage, i would create a startup
  - do personnal projects to improve my knowledge
 
-My final goal is to be a MASTER of Blockchain and IA.
+My final goal is to be a MASTER of Blockchain and AI.
 <br>
 
 ## 🧠 Actual learning
 
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,solidity&theme=light"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=solidity&theme=light"/>
 </p>
 
-> C++ for the last project.
->
 > Solidity for the last project and personnal projects.
 <br>
 
@@ -34,8 +33,10 @@ My final goal is to be a MASTER of Blockchain and IA.
 <br>
 
 ### Web
-![web](https://go-skill-icons.vercel.app/api/icons?i=html,css&theme=light)
+![web](https://go-skill-icons.vercel.app/api/icons?i=html,css,typescript,tailwindcss&theme=light)
 > Basic knowledge of Html and Css
+>
+> Ts for both Backend and Frontend
 <br>
 
 ### IDE && VCS
